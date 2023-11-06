@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0JUmmzE0GCdcXkSPelc0fPjtYHrgSsl9ussn//XL5iE=",
+  "Source": "Nuncho.WebApi",
+  "BasePath": "_content/Nuncho.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
